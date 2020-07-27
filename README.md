@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello World! 👋
+
+Curious Individual.
+
+![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
 
 <!--
 **alexndrvega/alexndrvega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
