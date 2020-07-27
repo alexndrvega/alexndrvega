@@ -2,7 +2,7 @@
 
 Curious Individual.
 
-![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
+![Profile views](https://gpvc.arturio.dev/alexndrvega)
 
 <!--
 **alexndrvega/alexndrvega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
