@@ -5,8 +5,8 @@
 Curious Individual.
 
 
-![GitHub stats](https://approute.dev/api?username=alexndrvega&show_icons=true&count_private=true&theme=shell-shock)
-![Language stats](https://approute.dev/api/top-langs/?username=alexndrvega&theme=shell-shock)
+![GitHub stats](https://github-readme-stats-7u5uv49an.vercel.app/api?username=alexndrvega&show_icons=true&count_private=true&theme=shell-shock)
+![Language stats](https://github-readme-stats-7u5uv49an.vercel.app/api/top-langs/?username=alexndrvega&theme=shell-shock)
 
 <a href="https://twitter.com/alexndrvega" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
 <a href="https://www.instagram.com/alexndr.vega/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
