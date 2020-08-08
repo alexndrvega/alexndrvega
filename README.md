@@ -7,6 +7,7 @@ Curious Individual.
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexndrvega&show_icons=true&count_private=true&hide=contribs&theme=gruvbox)
+
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alexndrvega&layout=compact&theme=gruvbox)
 
 <a href="https://twitter.com/alexndrvega" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
