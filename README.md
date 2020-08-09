@@ -6,6 +6,7 @@ Curious Individual.
 
 
 ![GitHub stats](https://approute.dev/api?username=alexndrvega&show_icons=true&count_private=true&theme=color-blind-friendly-light)
+
 ![Language stats](https://approute.dev/api/top-langs/?username=alexndrvega&theme=color-blind-friendly-light)
 
 <a href="https://twitter.com/alexndrvega" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
