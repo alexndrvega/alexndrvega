@@ -1,13 +1,7 @@
-### Hello World! 👋
-
-<img src="https://raw.githubusercontent.com//alexndrvega/alexndrvega/master/assets/Alexander-Vega.png" alt="Banner Alexander Vega">
-
-Curious Individual.
+### Curious Individual.
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexndrvega&show_icons=true&count_private=true&theme=color-blind-friendly-dark)
-
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alexndrvega&theme=color-blind-friendly-dark)
 
 <a href="https://twitter.com/alexndrvega" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
 <a href="https://www.instagram.com/alexndr.vega/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
